@@ -6,6 +6,7 @@
 - [정보통신용어사전](http://word.tta.or.kr/dictionary/searchList.do)
 
 ## 프로그래밍 언어 이론
+- [EKO: Easy Korean Jargon for Computer Science](https://ekojargon.netlify.app)
 - [번역 용례](http://ropas.snu.ac.kr/lib/term/)
 - [The Dictionary of Jaemin Hong](https://hjaem.info/articles/dictionary)
 
