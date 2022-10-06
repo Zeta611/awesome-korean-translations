@@ -9,6 +9,7 @@
 - [EKO: Easy Korean Jargon for Computer Science](https://ekojargon.netlify.app)
 - [번역 용례](http://ropas.snu.ac.kr/lib/term/)
 - [The Dictionary of Jaemin Hong](https://hjaem.info/articles/dictionary)
+- https://github.com/prosyslab/pl-wiki
 
 ## 기계 학습
 - [케라스 공식 문서 한국어판](https://github.com/keras-team/keras-docs-ko)
